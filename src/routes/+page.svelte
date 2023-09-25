@@ -1,5 +1,7 @@
 <script lang="ts">
+	import Hero from "../komponenty/hero/Hero.svelte";
+
 
 </script>
 
-<h1>Instalace webu</h1>
+<Hero/>
