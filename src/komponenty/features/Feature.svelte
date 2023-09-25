@@ -40,11 +40,11 @@
     }
   </script>
   
-  <div class="px-4 py-8 max-w-screen-xl mx-auto">
+  <div class="px-4 py-8 max-w-screen-xl mx-auto ">
     <div class="sm:flex sm:items-center sm:gap-16">
       <div class="sm:w-1/2 sm:text-center sm:mb-8">
-        <h2 class="text-4xl font-extrabold text-gray-900">Co děláme?</h2>
-        <p class="mt-4">
+        <h2 class="text-4xl font-extrabold text-gray-900 text-center">Co děláme?</h2>
+        <p class="mb-4 mt-8">
           Naše truhlářské realizace jsou plné vášně a preciznosti. Vytváříme
           nejen kuchyně, ale i elegantní skříně a nábytkové kusy, které spojují
           funkci s estetikou. Každý projekt je jedinečný a pečlivě promyšlený do
@@ -54,7 +54,7 @@
         </p>
       </div>
       {#each [currentCard, currentCard + 1] as i (i)}
-        <div class="sm:w-1/4 mb-8 hover:scale-105 hover:shadow-xl transition-transform duration-300 cursor-pointer">
+        <div class="sm:w-1/4 mb-8 hover:scale-105 hover:shadow-xl transition-transform duration-300 cursor-pointer mt-32">
           <a href={cards[i].link}>
             <div class="mx-auto max-w-md overflow-hidden rounded-lg bg-white shadow">
               <img
