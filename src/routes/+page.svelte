@@ -1,9 +1,17 @@
 <script lang="ts">
-	import Feature from "../komponenty/features/Feature.svelte";
+	import Formular from "../komponenty/Kontakt/Formular.svelte";
+import Feature from "../komponenty/features/Feature.svelte";
+	import Feature2 from "../komponenty/features/Feature2.svelte";
+	import Galerie from "../komponenty/galerie/Galerie.svelte";
 import Hero from "../komponenty/hero/Hero.svelte";
+	import Recenze from "../komponenty/recenze/Recenze.svelte";
 
 
 </script>
 
 <Hero/>
 <Feature/>
+<Feature2/>
+<Galerie/>
+<Recenze/>
+<Formular/>
