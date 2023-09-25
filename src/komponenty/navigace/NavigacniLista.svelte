@@ -6,9 +6,6 @@
         <div class="hidden md:block">
             <img src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/Brand%20initial%20Simple%20Logo.png?alt=media&token=3c1bb499-656c-42a2-8251-3c00907075f3" alt="Logo" style="display: block; width: auto; max-height: 200px;">
         </div>
-        <div class="block md:hidden">
-            <img src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/Brand%20initial%20Simple%20Logo.png?alt=media&token=3c1bb499-656c-42a2-8251-3c00907075f3" alt="Logo" style="display: block; width: auto; max-height: 200px;">
-        </div>
     </a>
 </div>
 <!-- end logo -->
