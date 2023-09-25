@@ -6,14 +6,15 @@
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
             <!-- Pomalejší animace pro první obrázek (zde použijeme animate-pulse s delší dobou trvání) -->
-            <div class="animate-pulse-slow">
-                <img class="w-full rounded-lg" src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/CC8BA99C-45D7-4C73-9C8D-B6519632FE2A.jpeg?alt=media&token=4fc42213-a50c-4636-a6ad-6844cfebbd8f" alt="office content 1">
+            <div class="animate-pulse-slow sm:hidden">
+                <img class="w-full rounded-lg" src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/logo.png?alt=media&token=7eac34ad-d4e5-4a00-88c6-7f4062c9907d" alt="office content 1">
             </div>
-            <!-- Pomalejší animace pro druhý obrázek (zde použijeme animate-bounce s delší dobou trvání) -->
-            <div class="animate-bounce-slow">
-                <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/CC8BA99C-45D7-4C73-9C8D-B6519632FE2A.jpeg?alt=media&token=4fc42213-a50c-4636-a6ad-6844cfebbd8f" alt="office content 2">
+            <div class="sm:block">
+                <!-- Obsah pro PC (je viditelný na obrazovkách s rozlišením sm a vyšším) -->
+                <img class="w-full rounded-lg" src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/logo.png?alt=media&token=7eac34ad-d4e5-4a00-88c6-7f4062c9907d" alt="office content 1">
             </div>
         </div>
+        
     </div>
 </section>
 
