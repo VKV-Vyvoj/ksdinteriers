@@ -1,6 +1,6 @@
-<div class="flex justify-center mt-16 space-x-4">
+<div class="flex flex-col items-center mt-16 space-y-4">
     <!-- První recenze -->
-    <div class="relative grid grid-cols-1 gap-4 p-4 mb-8 border rounded-lg bg-white shadow-lg">
+    <div class="relative grid grid-cols-1 gap-4 p-4 border rounded-lg bg-white shadow-lg">
       <div class="relative flex gap-4">
         <img src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png" class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20" alt="" loading="lazy">
         <div class="flex flex-col w-full">
@@ -15,7 +15,7 @@
     </div>
   
     <!-- Druhá recenze -->
-    <div class="relative grid grid-cols-1 gap-4 p-4 mb-8 border rounded-lg bg-white shadow-lg">
+    <div class="relative grid grid-cols-1 gap-4 p-4 border rounded-lg bg-white shadow-lg">
       <div class="relative flex gap-4">
         <img src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png" class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20" alt="" loading="lazy">
         <div class="flex flex-col w-full">
@@ -30,7 +30,7 @@
     </div>
   
     <!-- Třetí recenze -->
-    <div class="relative grid grid-cols-1 gap-4 p-4 mb-8 border rounded-lg bg-white shadow-lg">
+    <div class="relative grid grid-cols-1 gap-4 p-4 border rounded-lg bg-white shadow-lg">
       <div class="relative flex gap-4">
         <img src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png" class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20" alt="" loading="lazy">
         <div class="flex flex-col w-full">
