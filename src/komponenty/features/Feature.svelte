@@ -1,6 +1,6 @@
 <div class="flex items-center gap-16 py-8 px-4 mx-auto max-w-screen-xl">
     <div class="font-light text-black sm:text-center sm:text-lg w-1/2">
-        <h2 class="text-center mb-4 text-4xl font-extrabold text-gray-900">Realizace</h2>
+        <h2 class="text-center mb-4 text-4xl font-extrabold text-gray-900">Co děláme?</h2>
         <p class="mb-4">Naše truhlářské realizace jsou plné vášně a preciznosti. Vytváříme nejen kuchyně, ale i elegantní skříně a nábytkové kusy, které spojují funkci s estetikou. Každý projekt je jedinečný a pečlivě promyšlený do nejmenšího detailu. Vaše představy a potřeby jsou naším hlavním směrem, ať už se jedná o kuchyň, skříň nebo jiný nábytek. S námi získáte nejen praktičnost, ale i krásu do svého domova.</p>
     </div>
 
