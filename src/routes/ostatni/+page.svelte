@@ -108,14 +108,14 @@
            <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/2e7d5ae3-ccf4-43b3-83fc-d757e171c713.jpeg?alt=media&token=c2247569-1f74-4c63-9ac8-8b21d00a6965"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/4a5fa464-aca9-4725-b4b4-866cf594759e.jpeg?alt=media&token=8b4593ad-5174-4cbb-aea9-a3f0626c776e"
                  alt=""
                />
              </div>
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/433fdb79-8710-4cb5-85ef-3d9193464f76.jpeg?alt=media&token=bae7a53a-8498-4fa4-a5f6-ba12cc5d99a1"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/CCE30BB5-1E54-4C39-983D-7675EA0F3295.jpeg?alt=media&token=4f04cad6-ad6e-4669-aac4-6f423759ed72"
                  alt=""
                />
              </div>
