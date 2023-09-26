@@ -6,6 +6,7 @@ import Feature from "../komponenty/features/Feature.svelte";
 	import Galerie from "../komponenty/galerie/Galerie.svelte";
 import Hero from "../komponenty/hero/Hero.svelte";
 	import Recenze from "../komponenty/recenze/Recenze.svelte";
+	import SocialMedia from "../komponenty/social/SocialMedia.svelte";
 
 
 </script>
@@ -16,3 +17,4 @@ import Hero from "../komponenty/hero/Hero.svelte";
 <Galerie/>
 <Recenze/>
 <Formular/>
+<SocialMedia/>

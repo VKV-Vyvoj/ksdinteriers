@@ -1,5 +1,6 @@
 <script lang="ts">
     import Swal from 'sweetalert2';
+	import SocialMedia from '../../komponenty/social/SocialMedia.svelte';
    
    function openModal(title: string, description: string) {
      Swal.fire({
@@ -133,4 +134,4 @@
              </div>
              </div>
              </div>
-             
+             <SocialMedia/>
