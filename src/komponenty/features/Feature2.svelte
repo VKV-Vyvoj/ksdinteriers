@@ -1,7 +1,7 @@
 <script lang="ts">
   import Swal from 'sweetalert2';
 
-  function openModal(title, description) {
+  function openModal(title: string, description: string) {
     Swal.fire({
       title: title,
       text: description,
@@ -25,7 +25,7 @@
         <!-- Buňka "Jak to u nás funguje?" -->
         <a
           class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-black hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
-          href="#"
+          href="/"
           on:click={(e) => {
             e.preventDefault();
             openModal('Jak to u nás funguje?', 'Popis toho, jak to u nás funguje...');
@@ -57,7 +57,7 @@
         <!-- Buňka "Jaké jsou ceny?" -->
         <a
           class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-black hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
-          href="#"
+          href="/"
           on:click={(e) => {
             e.preventDefault();
             openModal('Jaké jsou ceny?', 'Popis cenové politiky...');
@@ -89,7 +89,7 @@
         <!-- Buňka "Jaká je rychlost realizace?" -->
         <a
           class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-black hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
-          href="#"
+          href="/"
           on:click={(e) => {
             e.preventDefault();
             openModal('Jaká je rychlost realizace?', 'Popis rychlosti realizace...');
@@ -121,7 +121,7 @@
         <!-- Buňka "Co budu vše potřebovat?" -->
         <a
           class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-black hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
-          href="#"
+          href="/"
           on:click={(e) => {
             e.preventDefault();
             openModal('Co budu vše potřebovat?', 'Popis potřebných dokumentů...');
@@ -153,7 +153,7 @@
         <!-- Buňka "Nevím si rady?" -->
         <a
           class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-black hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
-          href="#"
+          href="/"
           on:click={(e) => {
             e.preventDefault();
             openModal('Nevím si rady?', 'Popis, co dělat, když si nevíte rady...');
@@ -185,7 +185,7 @@
         <!-- Buňka "Není tu to co hledám?" -->
         <a
           class="block rounded-xl border border-gray-100 p-4 shadow-sm hover:border-black hover:ring-1 hover:ring-gray-200 focus:outline-none focus:ring"
-          href="#"
+          href="/"
           on:click={(e) => {
             e.preventDefault();
             openModal('Není tu to co hledám?', 'Popis, co dělat, když hledaný obsah není k dispozici...');
