@@ -1,4 +1,6 @@
+
 import { initializeApp } from "firebase/app";
+
 import { getDatabase } from "firebase/database"; // Používáme getDatabase místo getFirestore
 
 const firebaseConfig = {

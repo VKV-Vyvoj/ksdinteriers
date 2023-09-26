@@ -4,12 +4,12 @@
     <img src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png" class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20" alt="" loading="lazy">
     <div class="flex flex-col w-full">
       <div class="flex flex-row justify-between">
-        <p class="relative text-xl whitespace-nowrap truncate overflow-hidden">Pan Tichý</p>
+        <p class="relative text-xl whitespace-nowrap truncate overflow-hidden">Zákazník z Milovic</p>
         <a class="text-gray-500 text-xl" href="#"><i class="fa-solid fa-trash"></i></a>
       </div>
-      <p class="text-gray-400 text-sm">20 Března 2023, ve 14:10</p>
+      <p class="text-gray-400 text-sm">14 května, 2023</p>
     </div>
-    <p class="-mt-4 text-gray-500">Velmi dobrý přístup k mému přání. Všechny požadavky splněny</p>
+    <p class="-mt-4 text-gray-500">Jsem naprosto nadšena z kuchyně, kterou pro nás Truhlářství KSDINTERIORS vyrobilo. Jejich tým se postaral o každý detail a výsledek je prostě ohromující. Kromě krásného designu máme teď i maximálně funkční prostor, který nám usnadňuje každodenní život.</p>
   </div>
 
   <!-- Druhá recenze -->
@@ -18,12 +18,12 @@
     <img src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png" class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20" alt="" loading="lazy">
     <div class="flex flex-col w-full">
       <div class="flex flex-row justify-between">
-        <p class="relative text-xl whitespace-nowrap truncate overflow-hidden">Pan Druhý</p>
+        <p class="relative text-xl whitespace-nowrap truncate overflow-hidden">Zákazník z Mladé Boleslavy</p>
         <a class="text-gray-500 text-xl" href="#"><i class="fa-solid fa-trash"></i></a>
       </div>
-      <p class="text-gray-400 text-sm">25 Března 2023, ve 15:30</p>
+      <p class="text-gray-400 text-sm">25 Března, 2023</p>
     </div>
-    <p class="-mt-4 text-gray-500">Další skvělá recenze na naše produkty. Jsme rádi, že jsme vám mohli pomoci.</p>
+    <p class="-mt-4 text-gray-500">Spolupráce s Truhlářstvím KSDINTERIORS byla úžasná zkušenost. Od začátku nás jejich tým poslouchal a poradil nám s výběrem materiálů a designu. Naše nová kuchyně je teď naší hrdostí – je moderní, elegantní a plně odpovídá našim představám.</p>
   </div>
 
   <!-- Třetí recenze -->
@@ -32,11 +32,11 @@
     <img src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png" class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20" alt="" loading="lazy">
     <div class="flex flex-col w-full">
       <div class="flex flex-row justify-between">
-        <p class="relative text-xl whitespace-nowrap truncate overflow-hidden">Pan Třetí</p>
+        <p class="relative text-xl whitespace-nowrap truncate overflow-hidden">Zákazník z Uherského Hradiště</p>
         <a class="text-gray-500 text-xl" href="#"><i class="fa-solid fa-trash"></i></a>
       </div>
-      <p class="text-gray-400 text-sm">30 Března 2023, ve 16:45</p>
+      <p class="text-gray-400 text-sm">8 Srpna, 2023</p>
     </div>
-    <p class="-mt-4 text-gray-500">Třetí recenze na naše produkty. Děkujeme za vaši spokojenost!</p>
+    <p class="-mt-4 text-gray-500">Nemůžeme být spokojenější s naší novou kuchyní od Truhlářství KSDINTERIORS. Je to skvostný kus práce, který zaujal nejen nás, ale i naše hosty. Oceňujeme jejich profesionální přístup, a pokud bychom měli znovu volit, udělali bychom to stejně.</p>
   </div>
 </div>
