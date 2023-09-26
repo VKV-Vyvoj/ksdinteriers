@@ -3,6 +3,6 @@
     <nav aria-label="Footer Navigation" class="mx-auto mb-10 flex max-w-lg flex-col gap-10 text-center sm:flex-row sm:text-left">
 
     </nav>
-    <p class="py-10 text-center text-gray-300">© 2022 KSDINTERIORS | Všechna práva vyhrazena</p>
+    <p class="py-10 text-center text-gray-300">© 2023 KSDINTERIORS | Všechna práva vyhrazena</p>
   </footer>
   
