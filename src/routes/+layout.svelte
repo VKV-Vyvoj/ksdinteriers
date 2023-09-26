@@ -1,25 +1,40 @@
-
+<!-- Layout.svelte -->
 <script>
-    // Importovat globální CSS styl pro váš projekt
-    import "../app.css";
-	import Footer from "../komponenty/footer/Footer.svelte";
-	import NavigacniLista from "../komponenty/navigace/NavigacniLista.svelte";
-  </script>
-  
-  <main class="bg-white min-h-screen">
+  import "../app.css";
+  import { onMount } from "svelte";
+  import NavigacniLista from "../komponenty/navigace/NavigacniLista.svelte";
+  import Footer from "../komponenty/footer/Footer.svelte";
+
+  let showSpinner = true;
+  let showNav = false; // Přidáme proměnnou pro stav navigačního seznamu
+
+  // Simulace načítání po dobu 3 sekund
+  onMount(() => {
+    setTimeout(() => {
+      showSpinner = false;
+      showNav = true; // Po načtení obsahu zobrazíme navigační seznam
+    }, 3000);
+  });
+</script>
+
+<main class="bg-white min-h-screen">
+  {#if showNav} <!-- Zobrazíme navigační seznam, pokud showNav je true -->
     <nav>
-        <NavigacniLista/>
+      <NavigacniLista />
     </nav>
-    
-    <div class="container mx-auto px-4 py-8">
-      <slot></slot>
+  {/if}
+
+  {#if showSpinner}
+    <div class="fixed top-0 left-0 w-screen h-screen flex items-center justify-center bg-black bg-opacity-75 z-50">
+      <div class="animate-spin rounded-full h-32 w-32 border-t-4 border-white"></div>
     </div>
-    <footer>
-        <Footer/>
-    </footer>
-  </main>
-  
-  <style>
- 
-  </style>
-  
+  {/if}
+
+  <div class="{showSpinner || !showNav ? 'hidden' : 'block'} container mx-auto px-4 py-8">
+    <slot></slot>
+  </div>
+
+  <footer>
+    <Footer />
+  </footer>
+</main>
