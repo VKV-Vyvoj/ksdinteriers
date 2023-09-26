@@ -113,7 +113,7 @@
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/8c697365-feeb-4c26-921c-a2d953ea4b41.jpeg?alt=media&token=898e0a12-9ddc-4733-8859-e23e1ad95816"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/759E56B5-DC68-42BB-AE7D-5DC89806E1DE.jpeg?alt=media&token=bf249053-ffd6-4fc0-bc88-d37763ed87f6"
                  alt=""
                />
              </div>
@@ -127,7 +127,7 @@
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/FB9DD427-1FD2-495F-9640-B3462D6E652D.jpeg?alt=media&token=42c915e7-bc8b-4c2c-bb45-67d4306b3aa1"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/8A11BB15-6792-4072-ACED-F3C9AE726E7F.jpeg?alt=media&token=d692f44a-72d4-41b7-9b00-25052d11e68e"
                  alt=""
                />
              </div>
