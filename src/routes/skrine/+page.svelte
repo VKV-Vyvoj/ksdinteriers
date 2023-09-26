@@ -121,14 +121,14 @@
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/955e539b-f736-4ee7-b95c-9350371c839e.jpeg?alt=media&token=731eab51-d891-47da-8e13-fd6f6f195558  "
+                 src=""
                  alt=""
                />
              </div>
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/7679fa6b-5322-4d9a-a76c-0ce2ffa89824.jpeg?alt=media&token=43f29b54-2997-421e-80af-dad8ccfab980"
+                 src=""
                  alt=""
                />
              </div>
