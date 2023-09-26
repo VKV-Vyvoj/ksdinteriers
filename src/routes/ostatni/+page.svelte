@@ -108,28 +108,28 @@
            <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/N%C3%A1vrh%20bez%20n%C3%A1zvu.png?alt=media&token=397e3cc1-6dd3-412c-85bc-e7d54532cb12"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/2e7d5ae3-ccf4-43b3-83fc-d757e171c713.jpeg?alt=media&token=c2247569-1f74-4c63-9ac8-8b21d00a6965"
                  alt=""
                />
              </div>
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/N%C3%A1vrh%20bez%20n%C3%A1zvu.png?alt=media&token=397e3cc1-6dd3-412c-85bc-e7d54532cb12"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/433fdb79-8710-4cb5-85ef-3d9193464f76.jpeg?alt=media&token=bae7a53a-8498-4fa4-a5f6-ba12cc5d99a1"
                  alt=""
                />
              </div>
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/N%C3%A1vrh%20bez%20n%C3%A1zvu.png?alt=media&token=397e3cc1-6dd3-412c-85bc-e7d54532cb12"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/9356605f-390c-4186-a555-9d21b9df7740.jpeg?alt=media&token=bd00b02e-6efc-42c2-9837-df97c09fefd5"
                  alt=""
                />
              </div>
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/N%C3%A1vrh%20bez%20n%C3%A1zvu.png?alt=media&token=397e3cc1-6dd3-412c-85bc-e7d54532cb12"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/f049d17c-b438-442e-b4b2-d40ec67c1c5a.jpeg?alt=media&token=bfe3b8ed-f433-4d19-9b14-a00e086acfb7"
                  alt=""
                />
              </div>
