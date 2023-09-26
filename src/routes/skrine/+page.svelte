@@ -121,7 +121,7 @@
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src=""
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/06c2252c-8f7c-4518-b561-32edaa68abc0.jpeg?alt=media&token=ad024101-aa84-401c-93b0-788c3a8a63f2"
                  alt=""
                />
              </div>
