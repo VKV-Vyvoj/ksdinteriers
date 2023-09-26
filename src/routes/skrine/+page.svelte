@@ -128,7 +128,7 @@
              <div>
                <img
                  class="h-auto max-w-full rounded-lg"
-                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/4a5fa464-aca9-4725-b4b4-866cf594759e.jpeg?alt=media&token=8b4593ad-5174-4cbb-aea9-a3f0626c776e"
+                 src="https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/ldodo.png?alt=media&token=4c662ba4-eb84-47a6-b425-b01e525185bc"
                  alt=""
                />
              </div>
