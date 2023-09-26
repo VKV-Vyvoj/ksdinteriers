@@ -55,7 +55,7 @@
     }
   </script>
   
-  <main class="bg-white min-h-screen">
+  <main class="bg-white">
     <div class="sm:w-[38rem] mx-auto my-10 overflow-hidden rounded-2xl bg-white shadow-lg sm:max-w-lg">
       <div class="bg-black px-10 py-10 text-center text-white">
         <p class="font-serif text-2xl font-semibold tracking-wider">Máte dotaz?</p>
