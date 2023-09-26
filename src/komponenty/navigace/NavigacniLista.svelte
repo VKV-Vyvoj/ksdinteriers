@@ -15,7 +15,7 @@
 @media (max-width: 640px) {
     /* Zde můžete upravit styly odkazů tak, aby byly viditelné a responzivní na malých obrazovkách */
     .mx-4 {
-        margin: 8px; /* Nastavit vhodné odsazení pro odkazy */
+        margin: 4px; /* Nastavit vhodné odsazení pro odkazy */
     }
 }
 </style>
