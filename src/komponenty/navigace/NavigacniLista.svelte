@@ -5,7 +5,7 @@
         <a class="mx-4 text-white" href="/kuchyne">Kuchyně</a>
         <a class="mx-4 text-white" href="/skrine">Skříně</a>
         <a class="mx-4 text-white" href="/stoly">Stoly</a>
-        <a class="mx-4 text-white" href="/stoly">Ostatní</a>
+        <a class="mx-4 text-white" href="/ostatni">Ostatní</a>
     </div>
 </nav>
 

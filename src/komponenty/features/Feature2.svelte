@@ -28,7 +28,7 @@
           href="/"
           on:click={(e) => {
             e.preventDefault();
-            openModal('Jak to u nás funguje?', 'Popis toho, jak to u nás funguje...');
+            openModal('Jak to u nás funguje?', 'Jednoduše a profesionálně. Na prvním místě stojíte vy a vaše potřeby. Společně probereme vaše představy a přání. Poté přichází naše týmy zručných řemeslníků a designérů, kteří pracují na vytvoření vašeho jedinečného projektu. Jsme tu, abychom vám zajistili kvalitu, pečlivost a maximální spokojenost. S námi je přeměna vašeho domova do truhlářského klenotu jednoduchá a bezstarostná.');
           }}
         >
           <span class="inline-block rounded-lg bg-gray-50 p-3">
@@ -60,7 +60,7 @@
           href="/"
           on:click={(e) => {
             e.preventDefault();
-            openModal('Jaké jsou ceny?', 'Popis cenové politiky...');
+            openModal('Jaké jsou ceny?', 'Ceny se liší v závislosti na konkrétním projektu a jeho rozsahu. Každý náš výrobek a služba je jedinečný, a proto vám můžeme poskytnout přesný odhad až po podrobném prozkoumání vašich potřeb a požadavků. Naše ceny jsou však vždy férové a transparentní, a naším cílem je zajistit, aby naše truhlářské práce byly cenově dostupné a zároveň kvalitní.');
           }}
         >
           <span class="inline-block rounded-lg bg-gray-50 p-3">
@@ -92,7 +92,7 @@
           href="/"
           on:click={(e) => {
             e.preventDefault();
-            openModal('Jaká je rychlost realizace?', 'Popis rychlosti realizace...');
+            openModal('Jaká je rychlost realizace?', 'Rychlost realizace projektu závisí na jeho konkrétních požadavcích a rozsahu práce. Naším hlavním cílem je dodat vám truhlářský výrobek nebo službu, která splní vaše očekávání. Nejsme schopni stanovit pevný termín, protože každý projekt je jedinečný. Nicméně vám zaručujeme, že budeme pracovat efektivně a s maximálním úsilím, abychom vám přinesli výsledek, který stojí za čekání.');
           }}
         >
           <span class="inline-block rounded-lg bg-gray-50 p-3">
@@ -124,7 +124,7 @@
           href="/"
           on:click={(e) => {
             e.preventDefault();
-            openModal('Co budu vše potřebovat?', 'Popis potřebných dokumentů...');
+            openModal('Co budu vše potřebovat?', 'Pro spolupráci s námi budete potřebovat jen několik jednoduchých kroků. Začneme tím, že společně probereme vaše představy a požadavky. Poté budeme potřebovat přístup k prostoru, kde budou truhlářské práce provedeny, a budeme potřebovat informace o konkrétních měřeních, pokud jde o nábytek na míru nebo interiérové úpravy. Naši řemeslníci a designéři se postarají o zbytek. Můžete si být jisti, že se postaráme o všechny detaily a zajistíme, aby výsledek byl přesně takový, jaký jste si představovali.');
           }}
         >
           <span class="inline-block rounded-lg bg-gray-50 p-3">
@@ -156,7 +156,7 @@
           href="/"
           on:click={(e) => {
             e.preventDefault();
-            openModal('Nevím si rady?', 'Popis, co dělat, když si nevíte rady...');
+            openModal('Nevím si rady?', 'Nezoufejte! Jsme tu, abychom vám pomohli a odpověděli na všechny vaše otázky. Pokud nejste jisti, jak začít nebo máte nějaké obavy ohledně projektu, kontaktujte nás. Rádi vám poskytneme veškeré potřebné informace, poradíme vám a pomůžeme vytvořit plán, který bude odpovídat vašim potřebám a představám. Vaše spokojenost a důvěra jsou pro nás klíčové, a budeme se snažit udělat vše pro to, abyste dosáhli svých cílů a měli pozitivní truhlářskou zkušenost.');
           }}
         >
           <span class="inline-block rounded-lg bg-gray-50 p-3">
@@ -188,7 +188,7 @@
           href="/"
           on:click={(e) => {
             e.preventDefault();
-            openModal('Není tu to co hledám?', 'Popis, co dělat, když hledaný obsah není k dispozici...');
+            openModal('Není tu to co hledám?', 'Chápeme, že hledáte specifické informace nebo řešení pro svou situaci. Rádi vám pomůžeme. Pokud zde nenaleznete to, co potřebujete, neváhejte nás kontaktovat přímo. Naše tým je připraven vám poskytnout individuální podporu a odpovědi na vaše dotazy. Jsme tu pro vás a jsme připraveni vám pomoci s jakýmkoli požadavkem, který máte.');
           }}
         >
           <span class="inline-block rounded-lg bg-gray-50 p-3">
