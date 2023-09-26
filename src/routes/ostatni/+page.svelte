@@ -40,7 +40,7 @@
                href="/"
                on:click={(e) => {
                  e.preventDefault();
-                 openModal('Jak to u nás funguje?', 'Popis toho, jak to u nás funguje...');
+                 openModal('Jak to u nás funguje?', 'Jak to u nás funguje? Jednoduše a profesionálně. Na prvním místě stojíte vy a vaše potřeby. Společně probereme vaše představy a přání. Poté přichází naše týmy zručných řemeslníků a designérů, kteří pracují na vytvoření vašeho jedinečného projektu. Jsme tu, abychom vám zajistili kvalitu, pečlivost a maximální spokojenost. S námi je přeměna vašeho domova do truhlářského klenotu jednoduchá a bezstarostná.');
                }}
              >
                <span class="inline-block rounded-lg bg-gray-50 p-3">
@@ -73,7 +73,7 @@
                href="/"
                on:click={(e) => {
                  e.preventDefault();
-                 openModal('Jaká je rychlost realizace?', 'Popis rychlosti realizace...');
+                 openModal('Jaká je rychlost realizace?', 'Rychlost realizace projektu závisí na jeho konkrétních požadavcích a rozsahu práce. Naším hlavním cílem je dodat vám truhlářský výrobek nebo službu, která splní vaše očekávání. Nejsme schopni stanovit pevný termín, protože každý projekt je jedinečný. Nicméně vám zaručujeme, že budeme pracovat efektivně a s maximálním úsilím, abychom vám přinesli výsledek, který stojí za čekání.');
                }}
              >
                <span class="inline-block rounded-lg bg-gray-50 p-3">
