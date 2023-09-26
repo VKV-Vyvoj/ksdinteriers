@@ -3,7 +3,10 @@
     <!-- Centered links next to each other -->
     <div class="flex w-full justify-center">
         <a class="mx-4 text-white" href="/">Domů</a>
-        <a class="mx-4 text-white" href="/relizace">Realizace</a>
+        <a class="mx-4 text-white" href="/kuchyně">Kuchyně</a>
+        <a class="mx-4 text-white" href="/skrine">Skříně</a>
+        <a class="mx-4 text-white" href="/stoly">Stoly</a>
+        <a class="mx-4 text-white" href="/stoly">Ostatní</a>
         <a class="mx-4 text-white" href="/kontakt">Kontakt</a>
     </div>
 </nav>
