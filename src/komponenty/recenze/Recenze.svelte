@@ -1,6 +1,6 @@
 <div class="flex flex-col items-center mt-16 space-y-4 md:flex-row md:space-y-0 md:space-x-4">
   <!-- První recenze -->
-  <div class="relative grid grid-cols-1 gap-4 p-4 border rounded-lg bg-white shadow-lg mt-4">
+  <div class="relative grid grid-cols-1 gap-4 p-4 border rounded-lg bg-white shadow-lg">
     <img src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png" class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20" alt="" loading="lazy">
     <div class="flex flex-col w-full">
       <div class="flex flex-row justify-between">
