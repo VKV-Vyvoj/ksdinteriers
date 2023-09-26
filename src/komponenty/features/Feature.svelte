@@ -14,7 +14,7 @@
       {
         imgUrl: "https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/94365E8D-78DC-49CA-9962-9EEBC787D017.jpeg?alt=media&token=1fd88abb-3d8b-4257-a28a-cbaa39fd90d7",
         title: "Stoly",
-        link: "/stoly",
+        link: "/toly",
       },
       {
         imgUrl: "https://firebasestorage.googleapis.com/v0/b/truhlarstvi-interiors.appspot.com/o/FB9DD427-1FD2-495F-9640-B3462D6E652D.jpeg?alt=media&token=42c915e7-bc8b-4c2c-bb45-67d4306b3aa1",

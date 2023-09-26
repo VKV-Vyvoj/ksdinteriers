@@ -6,19 +6,21 @@
   import Footer from "../komponenty/footer/Footer.svelte";
 
   let showSpinner = true;
-  let showNav = false; // Přidáme proměnnou pro stav navigačního seznamu
+  let showNav = false;
+  let showFooter = false; // Přidáme proměnnou pro stav zobrazení footeru
 
   // Simulace načítání po dobu 3 sekund
   onMount(() => {
     setTimeout(() => {
       showSpinner = false;
-      showNav = true; // Po načtení obsahu zobrazíme navigační seznam
+      showNav = true;
+      showFooter = true; // Po načtení obsahu zobrazíme footer
     }, 3000);
   });
 </script>
 
 <main class="bg-white min-h-screen">
-  {#if showNav} <!-- Zobrazíme navigační seznam, pokud showNav je true -->
+  {#if showNav}
     <nav>
       <NavigacniLista />
     </nav>
@@ -30,11 +32,12 @@
     </div>
   {/if}
 
-  <div class="{showSpinner || !showNav ? 'hidden' : 'block'} container mx-auto px-4 py-8">
-    <slot></slot>
-  </div>
-
-  <footer>
-    <Footer />
-  </footer>
+  {#if showFooter} <!-- Zobrazíme footer, pokud showFooter je true -->
+    <div class="{showSpinner || !showNav ? 'hidden' : 'block'} container mx-auto px-4 py-8">
+      <slot></slot>
+    </div>
+    <footer>
+      <Footer />
+    </footer>
+  {/if}
 </main>
