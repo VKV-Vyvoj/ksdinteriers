@@ -1,4 +1,5 @@
 import { initializeApp } from "firebase/app";
+import { getDatabase } from "firebase/database"; // Používáme getDatabase místo getFirestore
 
 const firebaseConfig = {
   apiKey: "AIzaSyDJufRr2azoOcmbtYqxXbAKrupOmW1F7ss",
@@ -10,3 +11,6 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
+const db = getDatabase(app); // Používáme getDatabase pro získání Realtime Database instance
+
+export { db };
